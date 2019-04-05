@@ -2,7 +2,7 @@
 
 Created with love by: Hasan 
   
-Display movies using movie d API and aswell as adding additional features
+Display movies using movie API 
 
 View site here: https://trusting-noyce-702008.netlify.com
 
