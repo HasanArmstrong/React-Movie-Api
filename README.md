@@ -17,30 +17,25 @@ Here's a walkthrough of implemented user stories.
 
 The following **required** functionalities are completed (this is a sample):
 
-* [x] Top navigation bar with dropdown buttons
-* [x] Banner with background image, white text, and a green button
-* [x] Color or text change when mouse hovers over
-* [x] At least 3 different body sections with different background images or colors
-* [x] 2 (or 3) card items per row in a body section
-* [x] Footer with social icons that link to the actual social pages
+* [x] The user can see the top 20 "Currently Playing" movies on a page.
+* [x] For each movie, the user can see the Movie Title, Year, Rating, and Poster.
+* [x] The user can see this information clearly on devices of various screen sizes.
+* [x] The user can see "more" movies by tapping a "See More" button at the bottom.
+
 
 The following **optional** features are implemented:
 
-* [x] Add favicon to the page
-* [ ] Animation on an element
-* [ ] Navigation, contact, sitemap, privacy policy, term of use, etc in footer
-* [ ] Bootstrap carousel for banner
-* [ ] Banner with background video
+* [x] The user can enter a term into a search box to filter the currently loaded movies by search term. E.g.; the user can type "mar" and the results are reduced to show "Captain Marvel".
+* [ ] The user can change the "source" from "Currently Playing" movies to "Top Rated" movies (or any other of the endpoints supplied by MovieDB).
+* [ ] Sort by Rating and Popularity (from Lowest to Highest and Vice Versa)
+* [ ] Have Year, Rating as a slider. Change the display dynamically when the slider is changed. You could use React Input Range package for this task.
 
-The following **additional** features are implemented:
-
-* [x] List anything else that you can get done to improve the page!
 
 ## Time Spent and Lessons Learned
 
-Time spent: **X** hours spent in total.
+Time spent: **10** hours spent in total.
 
-Describe any challenges encountered while building the app.
+Connecting API to site and extracting movie data from it
 
 ## License
 
